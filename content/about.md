@@ -1,8 +1,7 @@
 ---
 title: Strategies
-subtitle: This is a short page about me and my work
-img_path: >-
-  /images/organic-food-vegan-restaurant-menu-board-placemat-template-vector-67770966.jpg
+subtitle: ''
+img_path: ''
 menu:
   main:
     name: Strategies
