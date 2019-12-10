@@ -6,7 +6,7 @@ img_path: >-
 menu:
   main:
     name: Strategies
-    weight: 2
+    weight: 1
 layout: page
 ---
 
