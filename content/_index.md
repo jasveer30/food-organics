@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /about
+  - actions: []
     component: intro.html
     content: >-
       # _**Grow ORGANIC to achieve excellence in agriculture and commerce,
