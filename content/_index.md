@@ -1,11 +1,13 @@
 ---
 title: Home
 sections:
-  - actions: []
+  - actions:
+      - label: 'LEARN MORE '
+        url: /STRATEGIES
     component: intro.html
     content: >-
-      # _**Grow ORGANIC to achieve excellence in agriculture and commerce,
-      protect the environment and enhance community well-being.**_
+      # "**_Grow ORGANIC to achieve excellence in agriculture and commerce,
+      protect the environment and enhance community well-being"_**
     section_id: intro
     title: Intro
     type: intro
