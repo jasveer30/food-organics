@@ -88,6 +88,9 @@ sections:
       clothing waste.
 
 
+      ![](/images/of.jpg)
+
+
       ![](/images/priscilla-du-preez-697322-unsplash-623x350.jpg)
 
 
