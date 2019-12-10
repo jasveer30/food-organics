@@ -4,7 +4,7 @@ subtitle: >-
   Strategic goals provide benchmarks for filling seats and selling meals, while
   also mapping plans for introducing new foods or creating new food production
   processes
-img_path: /images/marketing-strategies-of-restaurant-8-638.jpg
+img_path: ''
 menu:
   main:
     name: Strategies
