@@ -93,19 +93,13 @@ sections:
 
 
       ![](/images/priscilla-du-preez-697322-unsplash-623x350.jpg)
-
-
-      ![]()
-
-
-      ![]()
     section_id: intro
     title: Intro
     type: intro
 menu:
   main:
     name: Home
-    weight: 1
+    weight: 0
 layout: home
 ---
 
