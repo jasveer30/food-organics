@@ -1,13 +1,13 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: 'LEARN MORE '
-        url: STRATEGIES
+  - actions: []
     component: intro.html
     content: >-
-      # "**_Grow ORGANIC to achieve excellence in agriculture and commerce,
-      protect the environment and enhance community well-being"_**
+      # "_**Grow ORGANIC to achieve excellence in agriculture and commerce,
+      protect the environment and enhance community well-being"**_
+
+
 
 
       ![](/images/priscilla-du-preez-697322-unsplash-623x350.jpg)
