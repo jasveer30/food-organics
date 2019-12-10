@@ -1,6 +1,6 @@
 ---
 title: Change your food -Change your life!
-date: 2019-12-11T05:00:00.000Z
+date: 2019-12-10T05:00:00.000Z
 thumb_img_path: /images/dryfoods_dreamstime_m_9396865_440px.jpg
 content_img_path: /images/style-guide.jpg
 excerpt: ''
