@@ -97,7 +97,7 @@ sections:
 menu:
   main:
     name: Home
-    weight: 0
+    weight: 1
 layout: home
 ---
 
