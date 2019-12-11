@@ -1,6 +1,6 @@
 ---
 title: Finance
-subtitle: finance
+subtitle: how to open a restaurant?
 layout: page
 ---
 Regardless of whether you are seeking to purchase or refinance your restaurant property or simply need working capital, we have financing options for you and simply provide loans for restaurants. As a Direct Lender for restaurant properties, Cressida Direct can help you grow your restaurant business. With an easy application process and straightforward loan terms, our restaurant loans get your kitchen going and growing!
