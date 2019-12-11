@@ -5,7 +5,7 @@ img_path: ''
 menu:
   main:
     identifier: marketting
-    name: marketing
+    name: Marketing
     weight: 3
 layout: page
 ---
@@ -21,42 +21,21 @@ To make a secure position like MacDonald and Tim Horton's we will concentrate on
 
  How will our venture sell its product and develop customer relationships?
 
- To sell our products we will do proper use of mass media to reach people and time to time taking something new to keep our customers always exited .however to develop good relationship with the customers we will do online survey on our website and in return with the survey code provide special meal offers to customers in this way we will get feedback direct from the customers and make improvements also. Hire the staff having good communication skills and handling customers complaints smartly and softly help us to make good customer relationship.
+ To sell our products we will do proper use of mass media to reach people and time to time taking something new to keep our customers always exited .however to develop good relationship with the customers we will do online survey on our website and in return with the survey code provide special meal offers to customers in this way we will get feedback direct from the customers and make improvements also. Hire the staff having good communication skills and handling customers complaints smartly and softly help us to make good customer relationship.
 
  to start this business today, roughly how much money would you need to get this off the ground? Give reasons for your request (salary, server cost, rent, etc.)
 
-1.	furniture
-
-2.	machines
-
-3.	dishes
-
-4.	reusable dishes
-
-5.	salary for team members
-
-6.	salary for managers s
-
-7.	cost for material and grocery
-
-8.	transporation of material
-
-9.	electricity
-
-10.	Hydro
-
-11.	rent
-
-12.	human resource dept
-
-
-
-
-
-
-
-
-
-
+1. furniture
+2. machines
+3. dishes
+4. reusable dishes
+5. salary for team members
+6. salary for managers s
+7. cost for material and grocery
+8. transporation of material
+9. electricity
+10. Hydro
+11. rent
+12. human resource dept
 
 ![](/images/of.jpg)
