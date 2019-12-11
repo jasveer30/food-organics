@@ -4,8 +4,8 @@ sections:
   - actions: []
     component: intro.html
     content: >-
-      # "**_Grow ORGANIC to achieve excellence in agriculture and commerce,
-      protect the environment and enhance community well-being"_**
+      # "_**Grow ORGANIC to achieve excellence in agriculture and commerce,
+      protect the environment and enhance community well-being"**_
 
 
       **Eating as an experience**
