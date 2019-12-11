@@ -4,8 +4,8 @@ sections:
   - actions: []
     component: intro.html
     content: >-
-      # "_**Grow ORGANIC to achieve excellence in agriculture and commerce,
-      protect the environment and enhance community well-being"**_
+      # "**_Grow ORGANIC to achieve excellence in agriculture and commerce,
+      protect the environment and enhance community well-being"_**
 
 
       **Eating as an experience**
@@ -47,6 +47,9 @@ sections:
       populations.
 
 
+      ![](/images/style-guide.jpg)
+
+
       The recognition of dollars as a determinant of food choice and, in turn,
       health, is aligned with our changing perception of wellness as a
       privilege. Gone (or going) are the days of Goop-like health ideals or
@@ -85,9 +88,6 @@ sections:
 
 
       ## 
-
-
-      ![](/images/of.jpg)
 
 
       ![](/images/priscilla-du-preez-697322-unsplash-623x350.jpg)
