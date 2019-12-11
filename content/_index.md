@@ -4,8 +4,8 @@ sections:
   - actions: []
     component: intro.html
     content: >-
-      # "_**Grow ORGANIC to achieve excellence in agriculture and commerce,
-      protect the environment and enhance community well-being"**_
+      # "**_Grow ORGANIC to achieve excellence in agriculture and commerce,
+      protect the environment and enhance community well-being"_**
 
 
       **Eating as an experience**
@@ -97,7 +97,7 @@ sections:
 menu:
   main:
     name: Home
-    weight: 1
+    weight: 12
 layout: home
 ---
 
