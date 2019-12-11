@@ -17,14 +17,20 @@ sections:
 
 
       Though this may seem impractical for many Canadians rushing between jobs
-      and other obligations, the new Canada Food organics is aligned with our
-      emerging desire to ‘take a beat’ and savor experiences and each other –
-      despite the manic pace of our lives. The way we define wellness, for
-      instance, is increasingly relative to things like ‘quality time with the
-      people I love’ or ‘work life balance.’ The emergence of at-home meal kits
-      as one of the fastest-growing segments in the Canadian marketplace is also
-      testament to this trend, with more and more Canadians opting for the
-      experience of their meal over the convenience of take-out.
+      and other 
+
+
+      ![](/images/le-fleur-de-lys-where-i-really-should-have-dined-7.jpg)
+
+
+      obligations, the new Canada Food organics is aligned with our emerging
+      desire to ‘take a beat’ and savor experiences and each other – despite the
+      manic pace of our lives. The way we define wellness, for instance, is
+      increasingly relative to things like ‘quality time with the people I love’
+      or ‘work life balance.’ The emergence of at-home meal kits as one of the
+      fastest-growing segments in the Canadian marketplace is also testament to
+      this trend, with more and more Canadians opting for the experience of
+      their meal over the convenience of take-out.
 
 
       What does this mean for brands? As Canadian consumers make trade-offs
