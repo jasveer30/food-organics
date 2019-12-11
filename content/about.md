@@ -7,6 +7,7 @@ subtitle: >-
 img_path: /images/business-level-strategy_-differentiation.jpg
 menu:
   main:
+    identifier: strategies
     name: Strategies
     weight: 3
 layout: page
