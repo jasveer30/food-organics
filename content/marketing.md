@@ -48,17 +48,3 @@ To make a secure position like MacDonald and Tim Horton's we will concentrate on
 11.	rent
 
 12.	human resource dept
-
-
-
-
-
-
-
-
-
-
-
-Provide a table or spreadsheet for this answer. It needs to be unique to you and your business.
-
-•
