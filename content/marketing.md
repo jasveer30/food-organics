@@ -1,7 +1,7 @@
 ---
 title: marketing
 subtitle: marketting
-img_path: /images/of.jpg
+img_path: ''
 menu:
   main:
     identifier: marketting
@@ -48,3 +48,15 @@ To make a secure position like MacDonald and Tim Horton's we will concentrate on
 11.	rent
 
 12.	human resource dept
+
+
+
+
+
+
+
+
+
+
+
+![](/images/of.jpg)
