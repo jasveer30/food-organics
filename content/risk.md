@@ -8,7 +8,7 @@ layout: page
 ---
 Project risk management is an important aspect of project management. Project risk is defined by PMI as, "an uncertain event or condition that, if it occurs, has a positive or negative effect on a project's objectives.
 
-_**" Risk: The likelihood that a project will fail to meet its objectives.**_
+**_" Risk: The likelihood that a project will fail to meet its objectives._**
 
 my venture is to starting a chain of organic food restaurants in Canada to overcome the sever chronic diseases happening due to bad food quality. According to my venture the maj
 
@@ -30,12 +30,12 @@ Risk of stock and quality maintained: as the project is quietly different rather
 
 **How can we reduce these risks**
 
+![](/images/wqlvt8g.png)
+
 Answer: According to my research and knowledge, the only and best strategy to reduce ant kind of risk related to food project is to just provide best training and doing feedback sessions for your team members to make sure they are following all the food safety and quality rules for 100% customer satisfaction. Now What this strategy will do? it will help us to mitigate the major risk for our restaurants which is failure of restaurant. If we will get any problem with the quality of food we will definitely eliminate that issue completely by getting new machines, hiring more experienced people and following proper cleaning rules. with these things managers are also responsible for conducting regular training sessions on proper lifting and carrying techniques for heavy items. We will hire the Employees who know how to interact with customers should understand how to resolve problems. For example, if a customer is dissatisfied with a meal, your employee should know what to offer the customer to solve fix   inconvenience they have faced, and when to get the manager involved.
 
 We will make online surveys to provide the best services to our customers, to do this customer feedback is only source we have to make improvements. we will make several food plans, discounts, rewarding system to make customer experience most rewarding experience.
 
 For this project it is not possible to accept the risk if we do that we might get the punishment from facilities because of playing with the lives of people and we might have to close the restaurants or gave to penalty in millions of dollars
-
-
 
 .
