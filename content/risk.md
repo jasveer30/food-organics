@@ -1,6 +1,9 @@
 ---
 title: 'Risk '
 subtitle: ''
+menu:
+  main:
+    weight: 4
 layout: page
 ---
 Project risk management is an important aspect of project management. Project risk is defined by PMI as, "an uncertain event or condition that, if it occurs, has a positive or negative effect on a project's objectives.
